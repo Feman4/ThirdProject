@@ -359,36 +359,41 @@ visibility: hidden;
 }
 
 
-/*button
+
+
+/*holidays
 ==========================================*/
-.btn{
-	font-family: Gilroy;
-	font-size: 18px;
-	line-height: 22px;
-	display: flex;
-	align-items: center;
-	text-align: center;
-	text-transform: uppercase;
-	color:#000000;
-	text-decoration: none;
-	border: 1px solid #F7941E;
-	box-sizing:content-box;
-	padding: 21px 46px 14px 47px;
-	}
-
-.btn--smallborder{
-	padding: 13.97px 25px 7.53px 24px;
+.start{
+	background-color: #F7941E;
+  height: 240px;  
 }
-
-.btn--textcolororange{
-	color: #F7941E;
+.start__wrapper{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;	
+  padding:81px 235px 69px 235px;
 }
-.btn--textcolorwhite{
-	color: white;
+.start__text{
+  display: flex;
+  flex-direction: column;
+	
 }
-
-.btn--backgroundcolororange{
-	background-color:#F7941E;
+.start__h3{
+	
+}
+.start__p{
+	
+}
+.start_botons{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+	
+}
+.start__btn:last-child{
+  margin-left: 16px;	
 }
 
 
@@ -424,8 +429,14 @@ visibility: hidden;
 	line-height: 38px;
 	text-align: center;
 	color: #000000;
-	font-weight:100;
+  font-weight:500;
 }
+
+.text__h3--b{ /*Жирное начертиание для текста*/
+  font-weight:700;
+}
+
+
 
 .text__h4{
 	font-family: Gilroy;
@@ -438,4 +449,55 @@ visibility: hidden;
 	font-size: 20px;
 	line-height: 140.62%;
 	color: #000000;
+}
+
+.text__p--big{
+  font-size: 32px;
+  line-height: 140.62%;
+}
+
+
+/*button
+==========================================*/
+.btn{
+  font-family: Gilroy;
+  font-size: 18px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  color:#000000;
+  text-decoration: none;
+  border: 1px solid #F7941E;
+  box-sizing:content-box;
+  padding: 21px 46px 14px 47px;
+  border-radius: 5px;
+  }
+
+.btn--smallborder{
+  padding: 13.97px 25px 7.53px 24px;
+}
+
+.btn--textcolororange{
+  color: #F7941E;
+}
+.btn--textcolorwhite{
+  color: white;
+}
+
+.btn--textcolorblack{
+  color: black;
+}
+
+.btn--backgroundcolororange{
+  background-color:#F7941E;
+}
+
+.btn--backgroundcolorblack{
+  background-color:black;
+}
+
+.btn--backgroundbordercolorblack{
+  border: 1px solid black;
 }
