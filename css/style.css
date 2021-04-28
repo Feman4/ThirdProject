@@ -171,6 +171,16 @@ visibility: hidden;
 
 /*main
 ==========================================*/
+.container{
+	max-width: 100%;
+	width: 1170px;
+	margin: 0 auto;
+}
+
+
+
+/*main
+==========================================*/
 .main{
 
 }
@@ -278,7 +288,75 @@ visibility: hidden;
 
 
 
+/*holidays
+==========================================*/
+.holidays{
+	background: #FFFFFF;
+	height: 820px;
 
+}
+.holidays__wrapper{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+.holidays__h3{
+	margin-top:96px;
+
+}
+.holidays__p{
+	margin-top:23px;
+
+}
+.holiday__list{
+	margin-top:64px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+
+}
+.holiday__element{
+
+}
+.element{
+
+}
+.element__img{
+
+}
+.element__block{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding:24px;
+	background-color: #FAFAFA;
+
+}
+.block{
+
+}
+.block__h4{
+
+}
+.block__link{
+	margin-top: 74px;
+}
+
+
+
+.holidays__link{
+	text-decoration: none;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 19px;
+	color: #000000;
+}
+
+.holidays__link:hover{
+	opacity: .10;
+}
 
 
 /*button
@@ -323,19 +401,39 @@ visibility: hidden;
 }
 
 
-.texr__h1{
+.text__h1{
 	font-family: Gilroy;
-	font-size: 48px;
+	font-size: 56px;
 	line-height: 69px;
 	color: #000000;
 
 }
 
-.texr__h2{
 
+
+.text__h2{
+	font-family: Gilroy;
+	font-size: 32px;
+	line-height: 140.62%;
+	color: #000000;
 }
 
-.texr__p{
+.text__h3{
+	font-family: Gilroy;
+	font-size: 32px;
+	line-height: 38px;
+	text-align: center;
+	color: #000000;
+	font-weight:100;
+}
+
+.text__h4{
+	font-family: Gilroy;
+	font-size: 18px;
+	line-height: 135.94%;
+}
+
+.text__p{
 	font-family: Gilroy;
 	font-size: 20px;
 	line-height: 140.62%;
