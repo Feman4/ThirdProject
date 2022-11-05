@@ -2,9 +2,9 @@
     font-family: 'Gilroy';
     src: url('../fonts/Gilroy-MediumItalic.eot');
     src: local('Gilroy Medium Italic'), local('Gilroy-MediumItalic'),
-        url('../fonts/Gilroy-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Gilroy-MediumItalic.woff') format('woff'),
-        url('../fonts/Gilroy-MediumItalic.ttf') format('truetype');
+    url('../fonts/Gilroy-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-MediumItalic.woff') format('woff'),
+    url('../fonts/Gilroy-MediumItalic.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
 }
@@ -13,9 +13,9 @@
     font-family: 'Gilroy';
     src: url('../fonts/Gilroy-ExtraBoldItalic.eot');
     src: local('Gilroy ExtraBold Italic'), local('Gilroy-ExtraBoldItalic'),
-        url('../fonts/Gilroy-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Gilroy-ExtraBoldItalic.woff') format('woff'),
-        url('../fonts/Gilroy-ExtraBoldItalic.ttf') format('truetype');
+    url('../fonts/Gilroy-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-ExtraBoldItalic.woff') format('woff'),
+    url('../fonts/Gilroy-ExtraBoldItalic.ttf') format('truetype');
     font-weight: 800;
     font-style: italic;
 }
@@ -24,9 +24,9 @@
     font-family: 'Gilroy';
     src: url('../fonts/Gilroy-Regular.eot');
     src: local('../fonts/Gilroy Regular'), local('Gilroy-Regular'),
-        url('../fonts/Gilroy-Regular.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Gilroy-Regular.woff') format('woff'),
-        url('../fonts/Gilroy-Regular.ttf') format('truetype');
+    url('../fonts/Gilroy-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Regular.woff') format('woff'),
+    url('../fonts/Gilroy-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -35,9 +35,9 @@
     font-family: 'Gilroy';
     src: url('../fonts/Gilroy-HeavyItalic.eot');
     src: local('Gilroy Heavy Italic'), local('Gilroy-HeavyItalic'),
-        url('../fonts/Gilroy-HeavyItalic.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Gilroy-HeavyItalic.woff') format('woff'),
-        url('../fonts/Gilroy-HeavyItalic.ttf') format('truetype');
+    url('../fonts/Gilroy-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-HeavyItalic.woff') format('woff'),
+    url('../fonts/Gilroy-HeavyItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
 }
@@ -46,9 +46,9 @@
     font-family: 'Gilroy';
     src: url('../fonts/Gilroy-Medium.eot');
     src: local('Gilroy Medium'), local('Gilroy-Medium'),
-        url('../fonts/Gilroy-Medium.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Gilroy-Medium.woff') format('woff'),
-        url('../fonts/Gilroy-Medium.ttf') format('truetype');
+    url('../fonts/Gilroy-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Medium.woff') format('woff'),
+    url('../fonts/Gilroy-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
@@ -57,9 +57,9 @@
     font-family: 'Gilroy';
     src: url('../fonts/Gilroy-RegularItalic.eot');
     src: local('Gilroy Regular Italic'), local('Gilroy-RegularItalic'),
-        url('../fonts/Gilroy-RegularItalic.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Gilroy-RegularItalic.woff') format('woff'),
-        url('../fonts/Gilroy-RegularItalic.ttf') format('truetype');
+    url('../fonts/Gilroy-RegularItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-RegularItalic.woff') format('woff'),
+    url('../fonts/Gilroy-RegularItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
@@ -68,9 +68,9 @@
     font-family: 'Gilroy';
     src: url('../fonts/Gilroy-UltraLight.eot');
     src: local('Gilroy UltraLight'), local('Gilroy-UltraLight'),
-        url('../fonts/Gilroy-UltraLight.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Gilroy-UltraLight.woff') format('woff'),
-        url('../fonts/Gilroy-UltraLight.ttf') format('truetype');
+    url('../fonts/Gilroy-UltraLight.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-UltraLight.woff') format('woff'),
+    url('../fonts/Gilroy-UltraLight.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
 }
@@ -79,9 +79,9 @@
     font-family: 'Gilroy';
     src: url('../fonts/Gilroy-Bold.eot');
     src: local('Gilroy Bold'), local('Gilroy-Bold'),
-        url('../fonts/Gilroy-Bold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Gilroy-Bold.woff') format('woff'),
-        url('../fonts/Gilroy-Bold.ttf') format('truetype');
+    url('../fonts/Gilroy-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Bold.woff') format('woff'),
+    url('../fonts/Gilroy-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
@@ -90,9 +90,9 @@
     font-family: 'Gilroy';
     src: url('Gilroy-Thin.eot');
     src: local('Gilroy Thin'), local('Gilroy-Thin'),
-        url('Gilroy-Thin.eot?#iefix') format('embedded-opentype'),
-        url('Gilroy-Thin.woff') format('woff'),
-        url('Gilroy-Thin.ttf') format('truetype');
+    url('Gilroy-Thin.eot?#iefix') format('embedded-opentype'),
+    url('Gilroy-Thin.woff') format('woff'),
+    url('Gilroy-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
 }
@@ -101,9 +101,9 @@
     font-family: 'Gilroy';
     src: url('../fonts/Gilroy-Black.eot');
     src: local('Gilroy Black'), local('Gilroy-Black'),
-        url('../fonts/Gilroy-Black.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Gilroy-Black.woff') format('woff'),
-        url('../fonts/Gilroy-Black.ttf') format('truetype');
+    url('../fonts/Gilroy-Black.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Black.woff') format('woff'),
+    url('../fonts/Gilroy-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
 }
@@ -111,393 +111,470 @@
 
 /* lato-regular - latin */
 @font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/lato-v17-latin-regular.eot'); /* IE9 Compat Modes */
-  src: local(''),
-       url('../fonts/lato-v17-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/lato-v17-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/lato-v17-latin-regular.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/lato-v17-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/lato-v17-latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/lato-v17-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+    url('../fonts/lato-v17-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('../fonts/lato-v17-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('../fonts/lato-v17-latin-regular.woff') format('woff'), /* Modern Browsers */ url('../fonts/lato-v17-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('../fonts/lato-v17-latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
 }
+
 /* lato-700 - latin */
 @font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 700;
-  src: url('../fonts/lato-v17-latin-700.eot'); /* IE9 Compat Modes */
-  src: local(''),
-       url('../fonts/lato-v17-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/lato-v17-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/lato-v17-latin-700.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/lato-v17-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/lato-v17-latin-700.svg#Lato') format('svg'); /* Legacy iOS */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/lato-v17-latin-700.eot'); /* IE9 Compat Modes */
+    src: local(''),
+    url('../fonts/lato-v17-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('../fonts/lato-v17-latin-700.woff2') format('woff2'), /* Super Modern Browsers */ url('../fonts/lato-v17-latin-700.woff') format('woff'), /* Modern Browsers */ url('../fonts/lato-v17-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */ url('../fonts/lato-v17-latin-700.svg#Lato') format('svg'); /* Legacy iOS */
 }
+
 /* lato-900 - latin */
 @font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 900;
-  src: url('../fonts/lato-v17-latin-900.eot'); /* IE9 Compat Modes */
-  src: local(''),
-       url('../fonts/lato-v17-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/lato-v17-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/lato-v17-latin-900.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/lato-v17-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/lato-v17-latin-900.svg#Lato') format('svg'); /* Legacy iOS */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fonts/lato-v17-latin-900.eot'); /* IE9 Compat Modes */
+    src: local(''),
+    url('../fonts/lato-v17-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('../fonts/lato-v17-latin-900.woff2') format('woff2'), /* Super Modern Browsers */ url('../fonts/lato-v17-latin-900.woff') format('woff'), /* Modern Browsers */ url('../fonts/lato-v17-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */ url('../fonts/lato-v17-latin-900.svg#Lato') format('svg'); /* Legacy iOS */
 }
-
-.ibg{
-background-position: center;
-background-size: cover;
-background-repeat: no-repeat;
-position: relative;
-}
-
-.ibg img{
-
-width: 0;
-height: 0;
-position: absolute;
-top: 0;
-left: 0;
-opacity: 0;
-visibility: hidden;
-}
-
 
 
 /*main
 ==========================================*/
-.container{
-	max-width: 100%;
-	width: 1170px;
-	margin: 0 auto;
+body {
+    font-size: 18px;
+    font-family: Gilroy;
 }
 
 
+h1 {
+    font-size: 56px;
+    line-height: 69px;
+}
 
-/*main
-==========================================*/
-.main{
+h2 {
+    font-size: 48px;
+    line-height: 58px;
+}
+
+h3 {
+    font-size: 32px;
+    line-height: 140.62%;
+    font-weight: normal;
+}
+
+h4 {
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: normal;
+
+}
+
+h5 {
+    font-size: 24px;
+    line-height: 140.62%;
+    font-weight: 700;
+}
+
+.container {
+    max-width: 100%;
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.main {
 
 }
 
 /*header
 ==========================================*/
 
-.header{
-	width: 100%;
+.header {
+    width: 100%;
 }
 
-.header__container{
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-	padding: 47.47px 80px;	
-	align-items:center;
+.header__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2.6111rem 4.4444rem;
+    align-items: center;
 }
 
-.logo{
-
-}
-
-.nav{
+.logo {
 
 }
 
-.nav__list{
-	display: flex;
-	flex-direction: row;
-}
-
-.nav__item{
-	margin-right: 31px;
+.nav {
 
 }
 
-.nav__item:last-child{
-	margin-right: 0px;
+.nav__list {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav__item {
+    margin-right: 31px;
 
 }
 
-.nav__link{
-	font-family: Gilroy;
-	font-size: 18px;
-	line-height: 22px;	
-	display: flex;
-	align-items: center;
-	text-decoration: none;
-	color: #000000;
+.nav__item:last-child {
+    margin-right: 0px;
+
 }
 
-.nav__link:hover{
-	opacity: .75;
+.nav__link {
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #000000;
 }
+
+.nav__link:hover {
+    opacity: .75;
+}
+
 
 /*intro
 ==========================================*/
-
-.presents{
-	
-}
-.presents__row{
-	display: flex;
-	flex-direction: row;
-	align-content: center;
-}
-.presents__colum{
-	flex: 0 1 50%;
-	background-color: #F1F1F2;
+.intro {
+    background-color: #F1F1F2;
 }
 
-.presents__img{
+.intro__grid {
+    display: grid;
+    grid-template-columns: 6fr 6fr;
 }
 
-.presents__img img{
-	width: 100%;
-	object-fit: cover;
-	object-position: top;
-}
-
-.presents__wrapper{
-	display: flex;
-	flex-direction: column;
-	justify-content:space-between;
-	height: 100%;
-	padding: 22% 16% 19% 21%;
-}
-
-@media(max-width:1100px){
-		.presents__wrapper{padding: 10% 10% 10% 10%;	
-		}
-}
-
-
-.presents__h1{
+.intro_content {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 20%;
 
 }
-.presents__p{
 
-}
-.presents__btn{
-	display:inline-flex;
+.intro__btn {
 }
 
+.intro__img, img {
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+.footerlogo__img {
+    object-fit: none;
+}
 
 
 /*holidays
 ==========================================*/
-.holidays{
-	background: #FFFFFF;
-	height: 820px;
-
-}
-.holidays__wrapper{
-	display: flex;
-	flex-direction: column;
-	text-align: center;
-}
-.holidays__h3{
-	margin-top:96px;
-
-}
-.holidays__p{
-	margin-top:23px;
-
-}
-.holiday__list{
-	margin-top:64px;
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-
-}
-.holiday__element{
-
-}
-.element{
-
-}
-.element__img{
-
-}
-.element__block{
-	display: flex;
-	flex-direction: column;
-	align-items: flex-start;
-	padding:24px;
-	background-color: #FAFAFA;
-
-}
-.block{
-
-}
-.block__h4{
-
-}
-.block__link{
-	margin-top: 74px;
+.holidays {
+    background: #FFFFFF;
 }
 
-
-
-.holidays__link{
-	text-decoration: none;
-	font-family: Roboto;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 14px;
-	line-height: 19px;
-	color: #000000;
+.holiday__box {
+    padding: 96px 135px;
+    text-align: center;
 }
 
-.holidays__link:hover{
-	opacity: .10;
+.holiday__h {
+
+}
+
+.holiday__p {
+    margin-top: 23px;
+
+}
+
+.holiday__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 3fr));
+    grid-gap: 30px;
+    justify-items: center;
+    margin-top: 64px;
+}
+
+.cardblock {
+    text-align: left;
+    background: #FAFAFA;
+}
+
+.cardblock:hover {
+    border: #cccccc 1px solid;
+    background-color: #ffffff;
+}
+
+.card__content {
+    padding: 24px;
+
+}
+
+.card__img {
+
+}
+
+.card__link {
+    text-decoration: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;
+}
+
+.card_a {
+    margin-top: 74px;
 }
 
 
-
-
-/*holidays
+/*start
 ==========================================*/
-.start{
-	background-color: #F7941E;
-  height: 240px;  
+.start {
+    background-color: #F7941E;
 }
-.start__wrapper{
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;	
-  padding:81px 235px 69px 235px;
+
+.start__box {
+    padding: 81px 235px;
 }
-.start__text{
-  display: flex;
-  flex-direction: column;
-	
+
+.start__grid {
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    align-items: center;
 }
-.start__h3{
-	
+
+.start__btn {
+    text-align: right;
+
 }
-.start__p{
-	
+
+
+/*myblogs
+==========================================*/
+.myblogs {
+    background-color: #ffffff;
 }
-.start_botons{
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-	
+
+.myblogs__box {
+    padding: 88px 135px 80px 135px;
+    text-align: center;
 }
-.start__btn:last-child{
-  margin-left: 16px;	
+
+.myblogs__h {
+
+}
+
+.myblogs__p {
+    margin-top: 16px;
+
+}
+
+.myblogs_a {
+    margin-top: 16px;
+}
+
+.myblogs__banner {
+    display: grid;
+    grid-template-columns: 4fr 8fr;
+    padding-top: 71px;
+}
+
+.banner__textbox {
+    background-color: #231F20;
+    padding: 63px 200px 49px 78px;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    text-align: left;
+}
+
+.banner__a {
+    text-decoration: none;
+    font-style: normal;
+    color: #ffffff;
+}
+
+.myblogs__cardlist {
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    text-align: left;
+    padding-top: 40px;
+}
+
+.myblogs__card:hover {
+    border: #cccccc 1px solid;
+}
+
+.card__box {
+    padding: 48px;
+
 }
 
 
 /*text
 ==========================================*/
+.text__h4 {
+    font-family: Gilroy;
+    font-size: 18px;
+    line-height: 135.94%;
+}
 
+.text__p {
+    font-family: Gilroy;
+    font-size: 20px;
+    line-height: 140.62%;
+    color: #000000;
+}
 
-.text{
-
+.text__p--big {
+    font-size: 32px;
+    line-height: 140.62%;
 }
 
 
-.text__h1{
-	font-family: Gilroy;
-	font-size: 56px;
-	line-height: 69px;
-	color: #000000;
+/*footer
+==========================================*/
+.footer {
+    background-color: #FAFAFA;
+    text-align: center;
 
 }
 
+.footer__container {
+    width: 1000px;
+    max-width: 100%;
+    margin: 0 auto;
+    border-bottom: #231F20 1px solid;
+    padding-bottom: 53px;
 
-
-.text__h2{
-	font-family: Gilroy;
-	font-size: 32px;
-	line-height: 140.62%;
-	color: #000000;
 }
 
-.text__h3{
-	font-family: Gilroy;
-	font-size: 32px;
-	line-height: 38px;
-	text-align: center;
-	color: #000000;
-  font-weight:500;
-}
-
-.text__h3--b{ /*Жирное начертиание для текста*/
-  font-weight:700;
+.footer__nav{
+    padding-top: 115px;
 }
 
 
-
-.text__h4{
-	font-family: Gilroy;
-	font-size: 18px;
-	line-height: 135.94%;
+.footernavnav__list {
+    display: flex;
+    justify-content: space-around;
 }
 
-.text__p{
-	font-family: Gilroy;
-	font-size: 20px;
-	line-height: 140.62%;
-	color: #000000;
+.signature_text {
+    font-size: 18px;
+    padding-bottom: 35px;
 }
 
-.text__p--big{
-  font-size: 32px;
-  line-height: 140.62%;
+.footer__list {
+    max-width: 500px;
+    margin: 55px auto;
+
 }
+
+.footer__lislicon {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    gap: 25px;
+}
+
+.svgicon {
+    width: 40px;
+    height: 40px;
+}
+
 
 
 /*button
 ==========================================*/
-.btn{
-  font-family: Gilroy;
-  font-size: 18px;
-  line-height: 22px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  text-transform: uppercase;
-  color:#000000;
-  text-decoration: none;
-  border: 1px solid #F7941E;
-  box-sizing:content-box;
-  padding: 21px 46px 14px 47px;
-  border-radius: 5px;
-  }
-
-.btn--smallborder{
-  padding: 13.97px 25px 7.53px 24px;
+.btn {
+    font-family: Gilroy;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+    text-decoration: none;
+    border: 1px solid #F7941E;
+    box-sizing: content-box;
+    padding: 21px 46px 14px 47px;
+    border-radius: 5px;
+    display: inline;
 }
 
-.btn--textcolororange{
-  color: #F7941E;
-}
-.btn--textcolorwhite{
-  color: white;
+.btn--smallborder {
+    padding: 13.97px 25px 7.53px 24px;
 }
 
-.btn--textcolorblack{
-  color: black;
+.btn--textcolororange {
+    color: #F7941E;
 }
 
-.btn--backgroundcolororange{
-  background-color:#F7941E;
+.btn--textcolorwhite {
+    color: white;
 }
 
-.btn--backgroundcolorblack{
-  background-color:black;
+.btn--textcolorblack {
+    color: black;
 }
 
-.btn--backgroundbordercolorblack{
-  border: 1px solid black;
+.btn--backgroundcolororange {
+    background-color: #F7941E;
+}
+
+.btn--backgroundcolorblack {
+    background-color: black;
+}
+
+.btn--backgroundbordercolorblack {
+    border: 1px solid black;
+}
+
+/*text
+==========================================*/
+.text {
+}
+
+.p20 {
+    font-size: 20px;
+    line-height: 140.62%;
+    color: #000000;
+}
+
+.p14 {
+    font-size: 14px;
+    line-height: 140.62%;
+    color: #000000;
+}
+
+.text__h2 {
+    font-family: Gilroy;
+    font-size: 32px;
+    line-height: 140.62%;
+    color: #000000;
+}
+
+.text__h3 {
+    font-family: Gilroy;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+    font-weight: 500;
+}
+
+.text__h3--b { /*Жирное начертиание для текста*/
+    font-weight: 700;
+}
+
+h3--b { /*Жирное начертиание для заголовка*/
+    font-weight: 700;
 }
